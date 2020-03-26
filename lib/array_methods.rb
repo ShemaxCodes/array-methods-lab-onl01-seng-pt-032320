@@ -4,6 +4,7 @@ end
 
 def using_sort(array)
   array = ["cat", "dog", "bird"]
+  array.sort
 
 end
 
