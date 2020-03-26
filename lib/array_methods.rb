@@ -1,5 +1,5 @@
 def using_include(array, element)
-  using_include = ["cat", "dog", "fish", "bird"]
+  using_include = ["cat"]
   using_include.include?("cat")
   using_include.include?("cow")
 end
