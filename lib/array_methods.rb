@@ -1,6 +1,7 @@
 def using_include(array, element)
 using_include = ["cat", "dog", "fish", "bird"]
 using_include?("cat")
+uisng_include?("cow")
 end
 
 def using_sort(array)
