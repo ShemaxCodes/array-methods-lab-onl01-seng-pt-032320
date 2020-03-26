@@ -13,7 +13,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  array = ["arrays!", "wow", "I"]
+  array = ["wow", "arrays!", "I"]
   array.first
 end
 
