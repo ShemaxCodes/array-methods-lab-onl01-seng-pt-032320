@@ -14,6 +14,7 @@ end
 
 def using_first(array)
   array = ["arrays!", "wow", "I"]
+  array.first
 end
 
 def using_last(array)
